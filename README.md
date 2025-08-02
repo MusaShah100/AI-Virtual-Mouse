@@ -3,13 +3,6 @@
 AI Virtual Mouse is a computer vision-based project that allows users to control their mouse cursor using hand gestures captured through a webcam. This project eliminates the need for a physical mouse by tracking hand movements and gestures to perform various mouse operations.
 
 ---
-
-## 👨‍💻 Author
-
-**Syed Moosa Ali**
-
----
-
 ## 🚀 Features
 
 - Control mouse cursor using hand movements  
