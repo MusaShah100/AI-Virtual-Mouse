@@ -49,8 +49,10 @@ pip install opencv-python mediapipe numpy autopy
 
 ## 📄 License
 
-This project is open-source and available for anyone to use and modify.
+This project is licensed under the [MIT License](LICENSE).
 
+If you use this project, **you must provide attribution** by stating:
+> "This project is based on code created by Moosa Ali – [https://github.com/MusaShah100/AI-Virtual-Mouse]".
 
 ---
 
